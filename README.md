@@ -1,3 +1,6 @@
+# Deprecation notice
+Power BI Cli is deprecated and is no longer supported.
+
 # angular-powerbi
 [![Build Status](https://img.shields.io/travis/Microsoft/PowerBI-Angular.svg?branch=dev)](https://travis-ci.org/Microsoft/PowerBI-Angular)
 [![npm version](https://img.shields.io/npm/v/angular-powerbi.svg)](https://www.npmjs.com/package/angular-powerbi)
