@@ -27,7 +27,7 @@
   "author": "Microsoft PowerBI Team",
   "license": "MIT",
   "dependencies": {
-    "angular": "^1.5.3",
+    "angular": "^1.4.4",
     "powerbi-client": "^2.1.0"
   },
   "devDependencies": {

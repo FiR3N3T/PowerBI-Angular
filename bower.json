@@ -27,6 +27,6 @@
   ],
   "dependencies": {
     "powerbi-client": "2.1.0",
-    "angular": "^1.5.5"
+    "angular": "^1.4.4"
   }
 }
